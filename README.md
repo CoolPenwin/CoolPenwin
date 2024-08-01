@@ -35,6 +35,11 @@
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="https://www.parrotsec.org/favicon.png" title="Parrot" alt="Parrot" width="55" height="55"/> |
 
+### Pentest kit:
+| Flipper Zero | Usb Killer |
+|----------|----------|
+|<img src="https://flipperzero.one/img/tild6533-3465-4439-a333-393565346635__150.png" title="flipper-zero" alt="flipper-zero" width="55" height="55"/> |<img src="https://yt3.googleusercontent.com/ixeFpcfVTfVQvdDJ28DrfRPGrisAXcYpciIB8SNS9z8-OmZJBz7fX299j7us0xDghgUDAWvw7Q=s160-c-k-c0x00ffffff-no-rj" title="usbkill" alt="usbkill" width="55" height="55"/> |
+
 
 </div>
 
