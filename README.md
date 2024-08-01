@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/736x/13/9a/c2/139ac2fd21fecac494cddafda0f05d5d.jpg" width="220" alt="Gif de bienvenida" />
+</div>
 
 <!--
 **CoolPenwin/CoolPenwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
