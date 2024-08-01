@@ -1,7 +1,7 @@
-## Hi there 👋
 <div align="center">
-  <img src="https://i.pinimg.com/736x/13/9a/c2/139ac2fd21fecac494cddafda0f05d5d.jpg" width="220" alt="Gif de bienvenida" />
+  <img src="https://i.pinimg.com/736x/13/9a/c2/139ac2fd21fecac494cddafda0f05d5d.jpg" width="420" alt="Gif de bienvenida" />
 </div>
+## Hi there 👋
 
 
 
@@ -31,9 +31,9 @@
 
 ### OS:
 
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| Linux | Ubuntu | Kali | Parrot |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> || <img src="https://www.parrotsec.org/favicon.png" title="Parrot" alt="Parrot" width="55" height="55"/> |
 
 
 </div>
