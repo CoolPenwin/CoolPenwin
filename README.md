@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/13/9a/c2/139ac2fd21fecac494cddafda0f05d5d.jpg" width="420" alt="Gif de bienvenida" />
+  <img src="https://www.shortform.com/blog/wp-content/uploads/2024/04/black-cat-hacking-code-750x350.webp" width="420" alt="Gif de bienvenida" />
 </div>
 ## Hi there 👋
 
