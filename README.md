@@ -60,18 +60,18 @@
 
 <!--
 -->
-| Ethical Hacker | <img scr="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" title="Introduccion a la Ciberseguridad" alt="Introduccion a la Ciberseguridad" width="55" height="55"/> |
+| Ethical Hacker | <img scr="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" title="Introduccion a la Ciberseguridad" alt="Introduccion a la Ciberseguridad" width="55" height="55"/> |
 |----------|----------| 
 | Introduction to Ethical Hacking and Penetration Testing | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
-| Planning and Scoping a Pentest Assessment |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
-| Information Gathering and Vulnerability Scanning |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/system_safeguards_5.png" title="Salvaguardias del sistema" alt="Salvaguardias del sistema" width="55" height="55"/> |
-| Social Engineering Attacks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_6.png" title="Defensa de la Red" alt="Defensa de la Red" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
-| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Planning and Scoping a Pentest Assessment |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/9e20fed5-aa76-4202-9903-ef71db5cbc24.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
+| Information Gathering and Vulnerability Scanning |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2356c61c-147f-48ab-acd2-cf0c9ed70aae.png" title="Salvaguardias del sistema" alt="Salvaguardias del sistema" width="55" height="55"/> |
+| Social Engineering Attacks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/42172e76-b06c-425c-a159-fab770abd18b.png" title="Defensa de la Red" alt="Defensa de la Red" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/387e65fb-148f-4e22-93ce-0516bee9175e.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ae18768b-d407-407a-8033-8102f34cc278.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3aafb093-6ae4-43ed-a63a-5fda0ff72d50.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/033c4cdd-4f5b-4782-8bcc-4716e0e96a17.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/79cdd9d1-cefb-44de-bdfe-59cc4309440b.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+| Exploiting Wired and Wireless Networks |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3352c9d8-875c-42fd-8058-09f932d0074b.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
  <!--
 -->
 
