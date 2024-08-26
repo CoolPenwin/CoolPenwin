@@ -50,10 +50,9 @@
 
 <details>
   <summary>
-  <b> CISCO  </b>
+  <b> CISCO  </b><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Introduction to Ethical Hacking and Penetration Testing" alt="Introduction to Ethical Hacking and Penetration Testing" width="55" height="55"/><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> 
   </summary> 
 In progress
-
 
 
 | Introduction to Cybersecurity | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" alt="Introduccion a la Ciberseguridad" width="55" height="55">  --> | Ethical Hacker | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Ethical Hacker" width="55" height="55">  --> |
@@ -79,13 +78,12 @@ In progress
 | Networking Protocols Basic | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/8c8e30d4-a8b6-47de-938b-d8dab9ea8652.png" alt="Networking Protocols Basic" width="55" height="55"> --> | | |
 
 
-
-
 | Endpoint Security |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/endpoint_security_30.png" alt="Endpoint Security" width="55" height="55"> --> | Network Defense |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_34.png" alt="Network Defense" width="55" height="55"> --> | Cyber Threat Management |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cyber_threat_management_37.png" alt="Cyber Threat Management" width="55" height="55"> --> |
 |----------|----------|----------|----------|----------|----------|
 |Network Security Basics|  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_security_basics_28.png" alt="Network Security Basics" width="55" height="55"> --> | Network Defense |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_31.png" alt="Network Defense" width="55" height="55"> --> | Vulnerability Assessment and Risk Management |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/vulnerability_assessment_and_risk_management_35.png" alt="Vulnerability Assessment and Risk Management" width="55" height="55"> --> |
 |Operating System and Endpoint Security|  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/operating_system_and_endpoint_security_29.png" alt="Security Alerts" width="55" height="55"> -->  | Firewalls and Cloud Security |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/firewalls_and_cloud_security_32.png" alt="Firewalls and Cloud Security" width="55" height="55"> --> | Incident Response |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/incident_response_36.png" alt="Incident Response" width="55" height="55"> --> |
 ||| Security Alerts |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/security_alerts_33.png" alt="Security Alerts" width="55" height="55"> --> | | |
+
 </details>      
 
 
