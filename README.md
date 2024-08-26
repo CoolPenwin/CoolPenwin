@@ -47,9 +47,10 @@
 
 ##  Badges & Certificates 
 ### CISCO  
-| Análisis de amenazas | Administración de Ciberseguridad |
+| Análisis de amenazas | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
 |----------|----------|
-| <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
+| Administración de Ciberseguridad |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
+ 
 
 </div>
 
@@ -57,11 +58,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
- [![CoolPenwin's github stats](https://bad-apple-github-readme.vercel.app/api?username=CoolPenwin&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![CoolPenwin's github stats](https://bad-apple-github-readme.vercel.app/api?username=CoolPenwin&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) |  [![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CoolPenwin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CoolPenwin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  -->
 
-[![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/CoolPenwin/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 <!--
