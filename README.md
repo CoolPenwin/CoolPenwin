@@ -57,9 +57,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
+<img src="https://bad-apple-github-readme.vercel.app/api?username=CoolPenwin&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" width="495" height="195"> [![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
- [![CoolPenwin's github stats](https://bad-apple-github-readme.vercel.app/api?username=CoolPenwin&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#) |  [![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)](#)
- 
+
+
 <!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CoolPenwin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  -->
 
 
