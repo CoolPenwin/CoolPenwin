@@ -87,7 +87,7 @@
 <!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CoolPenwin&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)  -->
 
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/CoolPenwin/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+<!-- [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/CoolPenwin/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#) -->
 <!--
 **CoolPenwin/CoolPenwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -104,6 +104,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href='https://ko-fi.com/X8X8100T4X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+
+![](https://komarev.com/ghpvc/?username=CoolPenwin)
+
 </p>
