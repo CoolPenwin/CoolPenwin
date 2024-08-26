@@ -67,7 +67,7 @@
 | Ethical Hacker | <img scr="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" title="Introduccion a la Ciberseguridad" alt="Introduccion a la Ciberseguridad" width="55" height="55"/> |
 |----------|----------| 
 
-|  Ethical Hacking and Penetration Testing | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
+| Introduction to Ethical Hacking and Penetration Testing | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
 |----------|----------|
 | Planning and Scoping a Pentest Assessment |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
 | Information Gathering and Vulnerability Scanning |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/system_safeguards_5.png" title="Salvaguardias del sistema" alt="Salvaguardias del sistema" width="55" height="55"/> |
