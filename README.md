@@ -51,9 +51,12 @@
 <details>
   <summary>
   <b> CISCO  </b><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/c929ed57-ee07-44ad-a2d4-7229fc85e043.png" title="Introduction to Ethical Hacking and Penetration Testing" alt="Introduction to Ethical Hacking and Penetration Testing" width="55" height="55"/><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/><img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> 
-  </summary> 
-In progress
 
+|Cybersecurity Analyst Career Path | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_pathway_27.png" alt="Cybersecurity Analyst Career Path" width="55" height="55">  --> |
+|-----|-----|
+  </summary> 
+
+In progress...
 
 | Introduction to Cybersecurity | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" alt="Introduccion a la Ciberseguridad" width="55" height="55">  --> | Ethical Hacker | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Ethical Hacker" width="55" height="55">  --> |
 |----------|----------|----------|----------|
