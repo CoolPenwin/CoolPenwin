@@ -45,6 +45,12 @@
 | <img src="https://flipperzero.one/img/tild3332-3839-4061-b663-363464303432__noroot.png" title="flipper-zero" alt="flipper-zero" width="55" height="55"/> | <img src="https://yt3.googleusercontent.com/ixeFpcfVTfVQvdDJ28DrfRPGrisAXcYpciIB8SNS9z8-OmZJBz7fX299j7us0xDghgUDAWvw7Q=s160-c-k-c0x00ffffff-no-rj" title="usbkill" alt="usbkill" width="55" height="55"/> |
 
 
+##  Badges & Certificates 
+### CISCO  
+| Análisis de amenazas | Administración de Ciberseguridad |
+|----------|----------|
+| <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
+
 </div>
 
 
