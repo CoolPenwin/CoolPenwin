@@ -70,8 +70,13 @@ In progress
 | | | Tools and Code Analysis | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3352c9d8-875c-42fd-8058-09f932d0074b.png" title="Tools and Code Analysis" alt="Tools and Code Analysis" width="55" height="55"/>  --> |
 
 
-
-
+| Networking Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/ec7b044a-3368-4bc3-8eaf-1872a41780b2.png" alt="Networking Basics" width="55" height="55"> --> | Networking Devices and Initial Configuration | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/525fcd6d-02cd-428c-8b2f-7ef320b094fb.png" alt="Networking Devices and Initial Configuration" width="55" height="55"> --> |
+|----------|----------|----------|----------|
+| Network Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/b57a8caf-81d7-4ccb-9d48-3b35409ef6c3.png" alt="Network Basics" width="55" height="55"> --> | Hierarchical Design and Number systems | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/1dd0052b-a513-44e4-95e8-1d363ebc54b7.png" alt="Hierarchical Design and Number systems" width="55" height="55"> --> |
+| Network Access Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/37da6ee3-6003-472f-bd1d-4ef9d7d934d0.png" alt="Network Access Basics" width="55" height="55"> --> | Understanding Network Access | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/89e50990-721b-48e5-8e76-eb7b3785b956.png" alt="Understanding Network Access" width="55" height="55"> --> |
+| Internet Protocol Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3f976bc0-8ab8-490f-bdd6-daf099a57669.png" alt="Internet Protocol Basics" width="55" height="55"> --> | Transport Services Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cb89e0ae-a2b8-49c4-a172-b1795dbbbe4c.png" alt="Transport Services Basics" width="55" height="55"> --> |
+| Network Communications Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/229f070a-46b9-4b5c-a60b-e90532252bd2.png" alt="Network Communications Basics" width="55" height="55"> --> | Basic Cisco Configuration | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d4d1b46-afd9-45c3-8e0e-3913d9fb6a54.png" alt="Basic Cisco Configuration" width="55" height="55"> --> |
+| Networking Protocols Basic | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/8c8e30d4-a8b6-47de-938b-d8dab9ea8652.png" alt="Networking Protocols Basic" width="55" height="55"> --> | | |
 
  
 
