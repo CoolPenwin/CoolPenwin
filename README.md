@@ -47,10 +47,20 @@
 
 ##  Badges & Certificates 
 ### CISCO  
-| Análisis de amenazas | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
+
+<!--
+| Introduccion a la Ciberseguridad | <img scr="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" title="Introduccion a la Ciberseguridad" alt="Introduccion a la Ciberseguridad" width="55" height="55"/> |
+|----------|----------| 
+-->
+
+| Cybersecurity Administration | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Análisis de amenazas" alt="Análisis de amenazas" width="55" height="55"/> |
 |----------|----------|
-| Administración de Ciberseguridad |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cybersecurity_administration_3.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
- 
+| Threat Analysis |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/threat_analysis_4.png" title="Administración de Ciberseguridad" alt="Administración de Ciberseguridad" width="55" height="55"/> |
+ <!--
+| System Safeguards |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/system_safeguards_5.png" title="Salvaguardias del sistema" alt="Salvaguardias del sistema" width="55" height="55"/> |
+| Network Defense |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_6.png" title="Defensa de la Red" alt="Defensa de la Red" width="55" height="55"/> |
+| Resource Specialist |<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" title="Especialista en recursos" alt="Especialista en recursos" width="55" height="55"/> |
+-->
 
 </div>
 
