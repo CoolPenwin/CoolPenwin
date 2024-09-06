@@ -122,6 +122,9 @@ Here are some ideas to get you started:
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 
 </p>
-<div align="right">
 ![](https://komarev.com/ghpvc/?username=CoolPenwin)
+<div align="right">
+</div>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=EduardoHernandezGuzman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
