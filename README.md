@@ -67,10 +67,22 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/security_button_icon_151909.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/tor_logo_icon_147223.png"  height="40" >
+  <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux"  height="40" >
+  <img src="https://www.parrotsec.org/favicon.png" title="Parrot" alt="Parrot"  height="40" >
+  <img src="https://raw.githubusercontent.com/github/explore/c292a03d2b4bf2e5d78dc64a7b4660684296b1da/topics/flipperzero/flipperzero.png" title="flipper-zero" alt="flipper-zero"   height="40" >
+  <img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" title="flipper-zero" alt="flipper-zero"   height="40" >
+  <img src="https://usbkill.com/cdn/shop/files/USBKill-Logo-Small_f54cce5c-6f79-49d2-a8b6-8a8600c1675f_250x90.png?v=1614343819" title="usbkill" alt="usbkill"  height="40" >
+   
   </p>
 <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderbluelinux_92912.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/mac_button_icon_151864.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png"  height="40" >
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/chrome_button_icon_151918.png"  height="40" >
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="office365"  />
@@ -92,24 +104,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
     
 </p>
-  <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderbluelinux_92912.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/mac_button_icon_151864.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/stackoverflow_button_icon_151839.png"  height="40" style="vertical-align:top; margin:4px">
 
 
-
-
-### OS:
-
-| Linux | Ubuntu | Kali | Parrot |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="https://www.parrotsec.org/favicon.png" title="Parrot" alt="Parrot" width="55" height="55"/> |
-
-### Pentest kit:
-| Flipper Zero | Usb Killer |
-|----------|----------|
-| <img src="https://flipperzero.one/img/tild3332-3839-4061-b663-363464303432__noroot.png" title="flipper-zero" alt="flipper-zero" width="55" height="55"/> | <img src="https://yt3.googleusercontent.com/ixeFpcfVTfVQvdDJ28DrfRPGrisAXcYpciIB8SNS9z8-OmZJBz7fX299j7us0xDghgUDAWvw7Q=s160-c-k-c0x00ffffff-no-rj" title="usbkill" alt="usbkill" width="55" height="55"/> |
 </div>
 
 
@@ -148,6 +146,9 @@ In progress...
 | Network Communications Basics | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/229f070a-46b9-4b5c-a60b-e90532252bd2.png" alt="Network Communications Basics" width="55" height="55"> --> | Basic Cisco Configuration | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d4d1b46-afd9-45c3-8e0e-3913d9fb6a54.png" alt="Basic Cisco Configuration" width="55" height="55"> --> |
 | Networking Protocols Basic | <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/8c8e30d4-a8b6-47de-938b-d8dab9ea8652.png" alt="Networking Protocols Basic" width="55" height="55"> --> | | |
 
+<p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
+</p>
 
 | Endpoint Security |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/endpoint_security_30.png" alt="Endpoint Security" width="55" height="55"> --> | Network Defense |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_34.png" alt="Network Defense" width="55" height="55"> --> | Cyber Threat Management |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cyber_threat_management_37.png" alt="Cyber Threat Management" width="55" height="55"> --> |
 |----------|----------|----------|----------|----------|----------|
@@ -156,7 +157,7 @@ In progress...
 ||| Security Alerts |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/security_alerts_33.png" alt="Security Alerts" width="55" height="55"> --> | | |
 
 <p align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
+<img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" >
 </p>
 
 </details>
