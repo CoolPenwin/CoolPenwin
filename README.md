@@ -56,7 +56,8 @@
     </p>
     
   <p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png"  height="40" style="vertical-align:top; margin:4px">
+  
   
 
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png"  height="40" style="vertical-align:top; margin:4px">
