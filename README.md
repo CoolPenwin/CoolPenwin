@@ -23,6 +23,7 @@
 <p align="left">
 
   
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" alt="CSS Icon" height="40" style="vertical-align:top; margin:4px"/>
@@ -34,50 +35,62 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_larger_button_icon_151950.png" height="40" alt="nodejs logo"  />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/npm_button_icon_151891.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jquery_button_icon_151954.png" height="40" alt="jquery"  />
+  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
     
   </p>
   <p>
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png"  height="40" style="vertical-align:top; margin:4px">
     
   </p>
   <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
+  <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/go_button_icon_151930.png" alt="python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" alt="python" height="40" style="vertical-align:top; margin:4px">
     </p>
     
   <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   
-  <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
-  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
-  <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="40" style="vertical-align:top; margin:4px">
+ 
 </p>
   <p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/security_button_icon_151909.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"  height="40" style="vertical-align:top; margin:4px">
   </p>
 <p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitch_button_icon_151829.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/xbox_button_icon_151857.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nintendo_button_icon_151863.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://icon-icons.com/icon/untappd-button/151834" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/raspberrypi_button_icon_151859.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/chrome_button_icon_151918.png"  height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vmware_button_icon_151867.png" height="40" alt="office365"  />
+  </p>
   
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/raspberrypi_button_icon_151859.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/arduino_macos_bigsur_icon_190380.png"  height="40" style="vertical-align:top; margin:4px">
+    
+  </p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gamedev_button_icon_151912.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitch_button_icon_151829.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/xbox_button_icon_151857.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nintendo_button_icon_151863.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
+    
 </p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/security_button_icon_151909.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderbluelinux_92912.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"  height="40" style="vertical-align:top; margin:4px">
 
 ### Languages:
 | Python3 | C| JS | GO | React | COBOL |
