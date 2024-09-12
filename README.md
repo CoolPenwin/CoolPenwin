@@ -40,18 +40,22 @@
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
     
   </p>
   <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/go_button_icon_151930.png" alt="python" height="40" style="vertical-align:top; margin:4px">
+    </p>
+    
+  <p>
+  
   <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
   <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
   <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
 
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 </p>
   <p>
