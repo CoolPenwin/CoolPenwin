@@ -89,6 +89,8 @@ In progress...
 |Operating System and Endpoint Security|  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/operating_system_and_endpoint_security_29.png" alt="Security Alerts" width="55" height="55"> -->  | Firewalls and Cloud Security |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/firewalls_and_cloud_security_32.png" alt="Firewalls and Cloud Security" width="55" height="55"> --> | Incident Response |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/incident_response_36.png" alt="Incident Response" width="55" height="55"> --> |
 ||| Security Alerts |  <!-- <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/security_alerts_33.png" alt="Security Alerts" width="55" height="55"> --> | | |
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+
 </details>
 
 
