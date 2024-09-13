@@ -108,7 +108,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
     
 </p>
+<a href="https://www.linkedin.com/in/alberto-r-m-48abaa32/">
+  
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png"  height="40" style="vertical-align:top; margin:4px">
+</a>
 
 
 </div>
