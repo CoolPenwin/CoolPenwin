@@ -49,6 +49,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
   <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
+</p>
+<p>
+  
+    
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/go_button_icon_151930.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" height="40" style="vertical-align:top; margin:4px" >C  
   <img src="https://avatars1.githubusercontent.com/u/6609701?v=3&s=280" title="Cobol" alt="Cobol" height="40" style="vertical-align:top; margin:4px" >COBOL      
@@ -75,8 +79,8 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHoaz0BVyXGbQ/company-logo_100_100/company-logo_100_100/0/1704380615493/hackthebox_logo?e=1733961600&v=beta&t=IHfGIDkRcyPPSKvLLDFpEZHROjGQlBUfwtXPQvp0U24"  height="40" >
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQG0KOJuostucw/company-logo_200_200/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1733961600&v=beta&t=5DHgC1dWFHBQmOFAAeGYNPaVe9PRl7XOVWQ0MciytuA"   height="40" >
   <img src="https://raw.githubusercontent.com/github/explore/c292a03d2b4bf2e5d78dc64a7b4660684296b1da/topics/flipperzero/flipperzero.png" title="flipper-zero" alt="flipper-zero"   height="40" >
-  <img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" title="flipper-zero" alt="flipper-zero"   height="40" >
   <img src="https://usbkill.com/cdn/shop/files/USBKill-Logo-Small_f54cce5c-6f79-49d2-a8b6-8a8600c1675f_250x90.png?v=1614343819" title="usbkill" alt="usbkill"  height="40" >
+  <img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" title="flipper-zero" alt="flipper-zero"   height="40" >
    
   </p>
 <p>
