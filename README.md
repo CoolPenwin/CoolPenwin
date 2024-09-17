@@ -16,11 +16,11 @@
 - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
 
 ## Languages and Tools 
-<div>
+<div align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<p align="center">
+<p >
 
   
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
