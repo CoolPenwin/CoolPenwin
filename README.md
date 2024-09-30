@@ -15,6 +15,9 @@
 - <img src="https://github.com/user-attachments/assets/cfbf1a7e-fe7c-4a41-bc3d-1b095838a332" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alberto-r-m-48abaa32/).
 - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
 
+
+![bye](https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png)
+ 
 ## Languages and Tools 
 <div align="center">
 
@@ -204,9 +207,7 @@ Here are some ideas to get you started:
   <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
   <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-<img url="https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png">
   
-![bye](https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png)
 
 </p>
 
