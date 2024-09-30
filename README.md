@@ -1,22 +1,35 @@
 <div align="center">
   <img src="https://www.shortform.com/blog/wp-content/uploads/2024/04/black-cat-hacking-code-750x350.webp"  alt="Gif de bienvenida" />
 </div>
+    
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hehim_button_icon_151856.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 
 
-<img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hehim_button_icon_151856.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align: top; border: none;">
+      <img src="https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png" alt="bye">
+    </td>
+    <td style="vertical-align: top; border: none;">
+      <p>
 
-- <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning FullSstack on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio), Cybersecurity on [CISCO](https://github.com/CiscoNetAcad) & [TheBridge](https://github.com/TheBridgeTech) and Robotics.
-- <img src="https://github.com/user-attachments/assets/51f6d251-8b49-4079-9250-8c7186a9ad8d" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I’m looking for remote developer job.
-- <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Most of my projects are available on [Github](https://github.com/CoolPenwin?tab=repositories).
-- 🎥 &nbsp; 
-- <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
-- <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I love technology, that's why I decided to take this career turn. 
-- <img src="https://github.com/user-attachments/assets/fdeb748b-adec-49c6-b761-62aaa650a495" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
-- <img src="https://github.com/user-attachments/assets/cfbf1a7e-fe7c-4a41-bc3d-1b095838a332" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alberto-r-m-48abaa32/).
-- <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
+  - <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning FullSstack on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio), Cybersecurity on [CISCO](https://github.com/CiscoNetAcad) & [TheBridge](https://github.com/TheBridgeTech) and Robotics.
+  - <img src="https://github.com/user-attachments/assets/51f6d251-8b49-4079-9250-8c7186a9ad8d" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I’m looking for remote developer job.
+  - <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Most of my projects are available on [Github](https://github.com/CoolPenwin?tab=repositories).
+  - 🎥 &nbsp; 
+  - <img src="https://github.com/user-attachments/assets/2b21f2c4-ef99-4c1d-b441-1aabfe0ee7bc" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
+  - <img src="https://github.com/user-attachments/assets/1043f8dc-36c1-4a05-a223-c97f37d885e2" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I love technology, that's why I decided to take this career turn. 
+  - <img src="https://github.com/user-attachments/assets/fdeb748b-adec-49c6-b761-62aaa650a495" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Ask me about anything information to me related, I am happy to answer.
+  - <img src="https://github.com/user-attachments/assets/cfbf1a7e-fe7c-4a41-bc3d-1b095838a332" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alberto-r-m-48abaa32/).
+  - <img src="https://github.com/user-attachments/assets/cc6bf341-cabc-4226-85ba-fb1bff43d458" alt="speak" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; 
+
+  </p>
+    </td>
+  </tr>
+</table>
 
 
-![bye](https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png)
+
  
 ## Languages and Tools 
 <div align="center">
