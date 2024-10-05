@@ -6,11 +6,12 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="vertical-align: top; border: none;">
-      <img src="https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png" alt="bye">
+    <td style="vertical-align: top; border: none;">      
+      <img src="https://images.typeform.com/images/qCDtcjV8jcVE/image/default-firstframe.png" alt="bye">      
     </td>
     <td style="vertical-align: top; border: none;">
-      <p>
+      
+  <p>
         
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hehim_button_icon_151856.png" alt="HE/HIM" height="40" style="vertical-align:top; margin:4px">
 
