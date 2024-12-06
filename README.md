@@ -17,8 +17,8 @@
   <p>
         
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hehim_button_icon_151856.png" alt="HE/HIM" height="40" style="vertical-align:top; margin:4px">
-
-  - <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning FullSstack on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio), Cybersecurity on [CISCO](https://github.com/CiscoNetAcad) & [TheBridge](https://github.com/TheBridgeTech) and Robotics.
+    FullSstack on [4 Geeks Academy](https://https://4geeksacademy.com/es/inicio)
+  - <img src="https://github.com/user-attachments/assets/5bf22aae-eecf-4f77-8163-01429c2a2865" alt="pc" style="vertical-align:middle; margin:2px; opacity:0.75; height:22px"> &nbsp; I’m currently learning  Cybersecurity on [CISCO](https://github.com/CiscoNetAcad) & [TheBridge](https://github.com/TheBridgeTech) and Robotics.
   - <img src="https://github.com/user-attachments/assets/51f6d251-8b49-4079-9250-8c7186a9ad8d" alt="diana" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; I’m looking for remote developer job.
   - <img src="https://github.com/user-attachments/assets/da7fe0b2-10b7-441c-8f68-7ddd2d31ada9" alt="star" style="vertical-align:middle; margin:2px; opacity:0.75; height:20px"> &nbsp; Most of my projects are available on [Github](https://github.com/CoolPenwin?tab=repositories).
   - 🎥 &nbsp; 
