@@ -205,6 +205,9 @@ In progress...
 ![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)
 <p>
 1º 50d ago-oct 2024
+  </p>
+  <p>
+    
 2º +50d oct 2024 -current 
 </p>
 
