@@ -209,7 +209,7 @@ In progress...
   </p>
   <p>
     
-2º +60d oct 2024 -current 
+2º 66d oct-dec 2024 
 </p>
 
 
