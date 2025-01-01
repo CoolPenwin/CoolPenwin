@@ -202,13 +202,11 @@ In progress...
 ![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
 ![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)
 <p>
-1º 50d ago-oct 2024
-  </p>
-  <p>
+1º 50d ago-oct 2024  
 2º 66d oct-dec 2024 
 </p>
 <p>
-3º XXd dec 2024 - current
+3º XXd dec 2024 - current 2025
 </p>
 
 
